@@ -57,6 +57,7 @@ img {
     font-size: 20px;
 }
 
+
 .social-card .btn {
     display: block;
     width: 100%;
@@ -65,21 +66,14 @@ img {
     border: none;
     border-radius: 4px;
     transition: all 0.1s ease;
-}
-
-.social-card .btn:hover {
-    background-color: var(--Green);
-}
-
-.social-card .btn a {
     text-decoration: none;
     font-size: 18px;
     font-weight: 500;
     color: var(--White);
-    transition: all 0.1s ease;
 }
 
-.social-card .btn:hover a {
+.social-card .btn:hover {
+    background-color: var(--Green);
     color: var(--Grey-800);
 }
 
