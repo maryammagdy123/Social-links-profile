@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/social-links-profile-using-html-and-css-maryammagdy123)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
+- Live Site URL: [Live Demo]( https://maryammagdy123.github.io/Social-links-profile/)
 
 
 
