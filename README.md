@@ -59,12 +59,24 @@ In this project, I practiced:
 Example of the button hover:
 
 ```css
-.btn:hover {
-  background-color: var(--Green);
+.social-card .btn {
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    background-color: var(--Grey-700);
+    border: none;
+    border-radius: 4px;
+    transition: all 0.1s ease;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--White);
 }
 
-.btn:hover a {
-  color: var(--Grey-800);
+.social-card .btn:hover {
+    background-color: var(--Green);
+    color: var(--Grey-800);
+}
 }
 ```
 
